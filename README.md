@@ -25,7 +25,7 @@ Best practices for **optimizing database queries in MongoDB** for large-scale ap
 
 ### 📫 How to reach me:
 - **Email:** rsivakumar12050@gmail.com  
-- **LinkedIn:** [Sivakumar Ramamroothy](https://www.linkedin.com) _(replace with your actual LinkedIn URL)_  
+- **LinkedIn:** [Sivakumar Ramamroothy](https://www.linkedin.com/in/sivakumar-r-webdev)
 
 ### ⚡ Fun fact:
 I love solving tricky coding puzzles and find satisfaction in getting all the test cases to pass! 🚀
