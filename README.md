@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Sivakumar 👋</h1>
-
-<p align="center">
+<h1 align="center">Hi, I'm <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Computer+Science+Engineer;Based+in+Chennai,+India"/>
-</p>
+</p></h1>
+
 
 <p align="center">
   B.E. Computer Science graduate (2026) building full-stack, security-conscious web apps.<br>
