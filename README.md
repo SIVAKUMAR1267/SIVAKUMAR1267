@@ -54,6 +54,8 @@
   <a href="https://github.com/SIVAKUMAR1267"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="pixel-art.gif" alt="Pixel art animation" width="260"></p>
+<div align="center">
+  <img src="https://media3.giphy.com/.../giphy.gif" width="220" alt="Gohan sticker">
+</div>
 
 <p align="center"><b>Chennai, India</b></p>
