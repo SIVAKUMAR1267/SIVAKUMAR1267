@@ -43,7 +43,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SIVAKUMAR1267&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SIVAKUMAR1267&show_icons=true&count_private=true&theme=react" alt="stats" width="49%"/>
 </div>
 
 ## 📬 Get in Touch
