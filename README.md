@@ -55,7 +55,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media3.giphy.com/.../giphy.gif" width="220" alt="Gohan sticker">
+  <img src="a.gif" width="220" alt="Gohan">
 </div>
 
 <p align="center"><b>Chennai, India</b></p>
