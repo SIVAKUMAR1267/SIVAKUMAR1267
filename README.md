@@ -29,9 +29,9 @@
 | Project | What it is | Stack / Highlights |
 |---|---|---|
 | [**Sanctuary**](https://github.com/SIVAKUMAR1267/Sanctuary) · [Live](https://sanctuary-deployment.vercel.app) | Privacy-preserving cloud storage | Client-side AES-256/RSA-2048 hybrid encryption, 5MB chunked uploads with progress, VirusTotal API threat detection |
-| **Epigrapher AI** | Translates temple inscriptions | OCR + multi-stage AI pipeline (script detection → transliteration → translation), Gemini API with model fallback and retries, React, TypeScript, Zustand, Vite |
+| [**Epigrapher AI**](https://github.com/SIVAKUMAR1267/Epigrapher-AI) | Translates temple inscriptions | OCR + multi-stage AI pipeline (script detection → transliteration → translation), Gemini API with model fallback and retries, React, TypeScript, Zustand, Vite |
 | [**E-Commerce Platform**](https://github.com/SIVAKUMAR1267/e-commerce) | Full-stack MERN store | JWT auth, RBAC admin dashboard, node-cache (~40% DB load reduction), debounced search, pagination |
-| **Blog Platform** | Multi-role blogging app | Docker, GitHub Actions CI/CD, role-based dashboards, Jest + Supertest tests, 100+ users |
+| [**Blog Platform**](https://github.com/SIVAKUMAR1267/blog-app) | Multi-role blogging app | Docker, GitHub Actions CI/CD, role-based dashboards, Jest + Supertest tests, 100+ users |
 
 ## 🎓 Education & Certifications
 
